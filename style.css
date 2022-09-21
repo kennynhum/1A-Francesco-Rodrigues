@@ -1,35 +1,48 @@
-#imagem {
-         text-align: center;
-}
-
-#link {
-       text-align: center;
-}
-
-p {
-    color: red;
-    fontsss-size: 50;
-    text-align: left;
-}
-
-h1{
-   color: blue;
-   font-size: 50;
-   text-align: center;
-}
-
-h2{
+.minhalista {
    color: green;
-   font-size: 40;
-   text-align: right;
+   font-size:30; 
 }
-.lista{
-      color: red;
-      font-size: 30;
-      text-align: center;
+
+
+.lista {
+    background: white; 
+    color: green;
+    font-size: 30;
 }
-.lista2{
-      color:green;
-      font-size: 30;
-      text-align: center;
+
+.imagens {
+   text-align: center;
+   background: white;
+
 }
+
+.lista2 {
+   color: green;
+   font-size: 30;
+}
+   
+#imagens { 
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: green;
+    padding: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+#imagem {
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: green;
+    padding: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+
+
